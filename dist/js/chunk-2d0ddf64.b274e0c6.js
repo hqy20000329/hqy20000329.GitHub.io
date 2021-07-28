@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ddf64"],{"842d":function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"comment"},[n._v("评论页面")])},s=[],l={},u=l,a=e("2877"),d=Object(a["a"])(u,c,s,!1,null,null,null);t["default"]=d.exports}}]);
-//# sourceMappingURL=chunk-2d0ddf64.b274e0c6.js.map
